@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Blessing.
+- 👀 I’m interested in learning software development and website development.
+- 🌱 I’m currently learning the basics of HTML, CSS and JAVASCRIPT.
+- 💞️ I really hope to do my best and be a great programmmer.
